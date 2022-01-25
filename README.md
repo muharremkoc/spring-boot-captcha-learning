@@ -11,5 +11,4 @@
 - Spring-Boot-Starter Data JPA
 
 
-
 [Muharrem Koç](https://github.com/muharremkoc)
